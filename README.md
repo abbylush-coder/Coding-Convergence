@@ -52,7 +52,7 @@ Project is complete and no longer being worked on as the deadline for this proje
 
 ## Room for Improvement
 
-* Add more depth and complexity by implementing chords and harmonies throughtout the whole song
+* Add more depth and complexity by implementing chords and harmonies throughout the whole song
 * Adjust timings
 * Possibly find a way to create a uniform end to the musical piece as opposed to relying on the user to manually press the stop button
 * Seek to implement more of TunePads predetermined functions such as high/lowpass

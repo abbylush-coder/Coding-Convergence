@@ -1,6 +1,6 @@
 # Coding-Convergence
 
-Coding Convergence is a creative coding project that sort to create a trap remix of the indie/pop song 'Eat Your Young' by Hozier. The project consists of an introduction, a first and second verse, a bridge/interlude and two choruses and a short outro of 10 beats.
+Coding Convergence is a creative coding project that sort to create a trap remix of the indie/pop song 'Eat Your Young' by Hozier. The project consists of an introduction, a first and second verse, a bridge/interlude, two choruses and a short outro of 10 beats.
 
 ## Table of Contents
 
@@ -27,20 +27,36 @@ Coding Convergence aims to marry (converge) the coding languages of python and m
 
 ## Features
 
+* Each cell (musical compenent) is interactive and can be viewed to see their construction and place in the remix
+* Two 'Code' cells which outline parameters for the entire musical composition
+* Various types of instruments and synths for auditory interest
+
 ## Screenshots
+
+<img width="337" height="899" alt="image" src="https://github.com/user-attachments/assets/402096a8-c2f7-4b5d-bc47-1f4a84567462" />
+<img width="2239" height="1197" alt="image" src="https://github.com/user-attachments/assets/3f420a99-b5b0-4931-b66e-c0d4a692492a" />
 
 ## Setup
 
-To setup 'Coding Convergence' first open the folder entitled 'Coding Convergence Final' and download the .JSON file. Next sign into TunePad, go to 'My Tunes', select import and import the .JSON file. Now it is ready to be played. 
+To setup 'Coding Convergence' first open the folder entitled 'Coding Convergence Final' and download the .JSON file. Next sign into TunePad, go to 'My Tunes', select import and import the .JSON file. Now it is ready to be played. It is recommended you listen with headphones, thought not necessary.
 Upon hearing the second chorus go to the cell entitled 'Chorus' and press the stop button in the top right corner 10 beats (beat 248) after the second chorus is completed to end the song.
 
 ## Usage
+
+It is recommended you listen with headphones, thought not necessary.
+Press the play button in the top right corner to listen to the remix.
+Upon hearing the second chorus go to the cell entitled 'Chorus'. Once the second chorus is completed, press the stop button in the top right corner after 10 beats (beat 248) to end the remix.
 
 ## Project Status
 
 Project is complete and no longer being worked on as the deadline for this project is 01/11/25. 
 
 ## Room for Improvement
+
+* Add more depth and complexity by implementing chords and harmonies throughtout the whole song
+* Adjust timings
+* Possibly find a way to create a uniform end to the musical piece as opposed to relying on the user to manually press the stop button
+* Seek to implement more of TunePads predetermined functions such as high/lowpass
 
 ## Acknowledgements
 
@@ -53,5 +69,5 @@ To create this project a number of tutorials and projects were used. 'Coding Con
 
 ## Contact
 
-email: abby.lush@student.uts.edu.au
+email: abby.lush@student.uts.edu.au 
 phone: 0466588534

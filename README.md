@@ -55,11 +55,11 @@ Project is complete and no longer being worked on as the deadline for this proje
 * Add more depth and complexity by implementing chords and harmonies throughout the whole song
 * Adjust timings
 * Possibly find a way to create a uniform end to the musical piece as opposed to relying on the user to manually press the stop button
-* Seek to implement more of TunePads predetermined functions such as high/lowpass
+* Seek to implement more of TunePad's predetermined functions such as high/lowpass and more
 
 ## Acknowledgements
 
-This project was inspired by Hozier's 'Eat Your Young' and TunePad's 'Warm up Activity: Chicago House Beat' from Learn TunePad
+This project was inspired by Hozier's 'Eat Your Young' and TunePad's 'Warm up Activity: Chicago House Beat' from Learn TunePad. 
 To create this project a number of tutorials and projects were used. 'Coding Convergence' made use of:
 * Learn TunePad Tutorials (Random Trap Beat)
 * TunePad Community (Example Project: House Beats)

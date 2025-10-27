@@ -31,13 +31,16 @@ Coding Convergence aims to marry (converge) the coding languages of python and m
 
 ## Setup
 
-To setup 'Coding Convergence' first open the folder entitled 'Coding Convergence Final' and download the .JSON file.
+To setup 'Coding Convergence' first open the folder entitled 'Coding Convergence Final' and download the .JSON file. Next sign into TunePad, go to 'My Tunes', select import and import the .JSON file. Now it is ready to be played. 
+Upon hearing the second chorus go to the cell entitled 'Chorus' and press the stop button in the top right corner 10 beats (beat 248) after the second chorus is completed to end the song.
 
 ## Usage
 
 ## Project Status
 
-# Roome for Improvement
+Project is complete and no longer being worked on as the deadline for this project is 01/11/25. 
+
+## Room for Improvement
 
 ## Acknowledgements
 
@@ -47,3 +50,8 @@ To create this project a number of tutorials and projects were used. 'Coding Con
 * TunePad Community (Example Project: House Beats)
 * TunePad Documentation
 * Intoduction to digital music with Python programming: learning music with Code by Horn, West & Roberts (2022)
+
+## Contact
+
+email: abby.lush@student.uts.edu.au
+phone: 0466588534

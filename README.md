@@ -38,7 +38,7 @@ Coding Convergence aims to marry (converge) the coding languages of python and m
 
 ## Setup
 
-To setup 'Coding Convergence' first open the file entitled 'tunepad_project_110924 (8).json' and download the .JSON file. Next sign into TunePad, go to 'My Tunes', select import and import the .JSON file. Now it is ready to be played. 
+To setup 'Coding Convergence' first open the file entitled 'tunepad_project_110924 (10).json' and download the .JSON file. Next sign into TunePad, go to 'My Tunes', select import and import the .JSON file. Now it is ready to be played. 
 
 ## Usage
 
